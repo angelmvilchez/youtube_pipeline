@@ -7,4 +7,4 @@ def extract_data():
     """
     print("Reading dataset from Kaggle...")
     os.system("kaggle datasets download -d datasnaek/youtube-new -p ../data/raw --unzip")
-    print("Data extracted to data/raw/")
+    print("Data extracted to data/raw/.")

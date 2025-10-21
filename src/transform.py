@@ -38,4 +38,4 @@ def transform_data():
 
     print("Writing transformed data to 'data/clean/'...")
     df.to_csv("../data/clean/youtube_trending_clean.csv", index=False)
-    print("Data transformed and saved to data/clean/")
+    print("Data transformed and saved to data/clean/.")
