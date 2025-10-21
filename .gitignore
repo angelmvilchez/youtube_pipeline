@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+database/*.db
+
+# Data files
+data/raw/
+data/clean/
